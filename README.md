@@ -1,4 +1,4 @@
-# [BetterJSONs](https://mcphackers.github.io/BetterJSONs)
+# [BetterJSONs](https://realfreehij.github.io/BetterJSONs)
 Improved version JSONs for Official Minecraft Launcher
 
 Generated using [WrappedJSONGen](https://github.com/Lassebq/WrappedJSONGen)
